@@ -21,6 +21,12 @@ I choose the [Axolotl](https://en.wikipedia.org/wiki/Axolotl), because it looks 
 
 <center><p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/AxolotlBE.jpg" alt=""></p></center>
 
+## Animal Family Member
+
+Axolotl's family is [Ambystomatidae](https://en.wikipedia.org/wiki/Mole_salamander). What makes this family special is that "all mole salamanders are oviparous and lay large eggs in clumps in the water" (Wikipedia). They have wide-set eyes yet without true eyelids. Another species within this family is [tiger salamander](https://en.wikipedia.org/wiki/Tiger_salamander), as shown below.
+
+![tiger salamander](https://upload.wikimedia.org/wikipedia/commons/c/c8/Salamandra_Tigre.png)
+
 ## References
 
 1. Axolotl Img 1: from [Wikipedia](https://en.wikipedia.org/wiki/Axolotl)
