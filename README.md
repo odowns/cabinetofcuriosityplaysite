@@ -13,6 +13,6 @@ This repo is used to play with the website design.  Feel free to post drafts to 
 6. `git push origin gh-pages` to push commit to your remote Github user account.
 7. Make a pull request on Github website.
 8. Wait for someone (likely Ciera) to approve of your commit. 
-9. Tada.  It should be online here: 
+9. Tada.  It should be online here: https://cabinetofcuriosity.github.io/cabinetofcuriosityplaysite/
 
 ## Jekyll Website Help 
